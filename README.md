@@ -2,6 +2,8 @@
 
 - 🚀 End to End Developer.
 - ✨ Passionate to update my knowledge and skills through continuous self learning and challenging work nature
+- 📝 I write stuff at <a href="https://medium.com/@jebasuthan">Medium</a>
+- 📫 Reach me on itjebasuthan@gmail.com
 
 <p><strong>Languages and Tools:</strong></p>
 
