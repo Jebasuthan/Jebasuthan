@@ -1,4 +1,4 @@
-### Hi! Welcome to my profile! 👋
+### Hello! 👋
 
 - 🚀 End to End Developer.
 - ✨ Passionate to update my knowledge and skills through continuous self learning and challenging work nature
